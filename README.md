@@ -3,7 +3,6 @@
 # 3. then type in your desired output file name and hit enter
 # 4. choose json, txt or pymem
 # for example if you choose json a ct file that first looked like this...
-<?xml version="1.0" encoding="utf-8"?>
 <CheatTable CheatEngineTableVersion="46">
   <CheatEntries>
     <CheatEntry>
