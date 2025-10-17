@@ -5,7 +5,7 @@
 # for example if you choose json a ct file that first looked like this...
 ```xml
 
-<?xml version="1.0" encoding="utf-8"?> <CheatTable CheatEngineTableVersion="46"> <CheatEntries> <CheatEntry> <ID>1</ID> <Description>"fov"</Description> <VariableType>Float</VariableType> <Address>client.dll+12755C</Address> </CheatEntry> <CheatEntry> <ID>2</ID> <Description>"health"</Description> <VariableType>4 Bytes</VariableType> <Address>hw.dll+1282A8C</Address> </CheatEntry> </CheatEntries> <UserdefinedSymbols/> </CheatTable> \`\`\`
+<?xml version="1.0" encoding="utf-8"?> <CheatTable CheatEngineTableVersion="46"> <CheatEntries> <CheatEntry> <ID>1</ID> <Description>"fov"</Description> <VariableType>Float</VariableType> <Address>client.dll+12755C</Address> </CheatEntry> <CheatEntry> <ID>2</ID> <Description>"health"</Description> <VariableType>4 Bytes</VariableType> <Address>hw.dll+1282A8C</Address> </CheatEntry> </CheatEntries> <UserdefinedSymbols/> </CheatTable>
 ```
 # would then look like...
 ```json
